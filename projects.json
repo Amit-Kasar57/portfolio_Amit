@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Rainfall Prediction using Machine Learning",
+        "description": "Streamlit app for predicting rainfall based on weather features using a trained ML model.",
+        "link": "https://github.com/yourusername/rainfall-prediction"
+    },
+    {
+        "title": "Snake Game on Arduino",
+        "description": "8x8 LED Matrix-based snake game using joystick input and MAX7219.",
+        "link": ""
+    },
+    {
+        "title": "COVID-19 Data Dashboard",
+        "description": "A Flask-based dashboard for visualizing COVID-19 trends, sentiment analysis, and vaccination stats.",
+        "link": "https://github.com/yourusername/covid19-dashboard"
+    }
+]
